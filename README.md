@@ -11,7 +11,7 @@ Nov 7-8 2022
 ### Cloud Machine : Google Colab (Free GPU)
 
 * Follow this Notebook installation :<br>
-https://colab.research.google.com/github/xbresson/ACE_NLP2022/blob/master/codes/installation/installation.ipynb
+https://colab.research.google.com/github/xb-trainings/ACE_NLP2022/blob/master/codes/installation/installation.ipynb
 
 * Open your Google Drive :<br>
 https://www.google.com/drive
@@ -37,7 +37,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
    source ~/.bashrc
 
    # Clone GitHub repo
-   git clone https://github.com/xbresson/ACE_NLP2022.git
+   git clone https://github.com/xb-trainings/ACE_NLP2022.git
    cd ACE_NLP2022
 
    # Install python libraries
@@ -64,7 +64,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
    conda install git 
 
    # Clone GitHub repo
-   git clone https://github.com/xbresson/ACE_NLP2022.git
+   git clone https://github.com/xb-trainings/ACE_NLP2022.git
    cd ACE_NLP2022
 
    # Install python libraries
